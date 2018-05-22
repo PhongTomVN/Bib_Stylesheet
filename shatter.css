@@ -470,7 +470,7 @@ span.block_li {
 }
 
 #body > h1 {
-    margin-top: 0px;
+    margin: 0;
 }
 
 #title {
