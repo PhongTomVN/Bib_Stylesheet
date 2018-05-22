@@ -944,7 +944,7 @@ table thead tr:nth-of-type(n+2) th, table thead tr:nth-of-type(n+2) td:not(.pagi
 .forum_controls + form[name="searchform"] {
     position: absolute;
     right: 0;
-    top: 100px;
+    top: 50px;
 }
 
 table#forum_topics form ~ br {
