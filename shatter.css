@@ -6,7 +6,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.9em;
     line-height: 1.5;
-    background: url(../images/shattered.png) #232222 fixed;
+    background: url(./images/shattered.png) #232222 fixed;
     color: #858585;
     margin: 0px;
 }
